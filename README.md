@@ -82,7 +82,7 @@ Nếu không mở được camera, sửa `CAM_INDEX` ở đầu `main.py` (thử
 fruit_ninja/
 ├── main.py            # Toàn bộ mã nguồn (OOP)
 ├── requirements.txt
-├── BAO_CAO.md         # Báo cáo kỹ thuật
+├── Project_Report.md         # Báo cáo kỹ thuật
 └── README.md
 ```
 
