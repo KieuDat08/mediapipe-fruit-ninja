@@ -42,8 +42,8 @@ Chi tiết xem file [`Project_Report.md`](Project_Report.md).
 
 ```bash
 # 1. Tải mã nguồn
-git clone [https://github.com/KieuDat08/mediapipe-fruit-ninja.git](https://github.com/KieuDat08/mediapipe-fruit-ninja.git)
-cd fruit_ninja
+git clone https://github.com/KieuDat08/mediapipe-fruit-ninja.git
+cd mediapipe-fruit-ninja
 
 # 2. (Khuyến nghị) Tạo môi trường ảo
 python -m venv venv
