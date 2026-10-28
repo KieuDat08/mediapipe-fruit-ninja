@@ -30,8 +30,7 @@ Camera -> MediaPipe Hands -> Landmark 8 -> Thuật toán -> Game
 | 4. Va chạm | Khoảng cách từ tâm quả đến **đoạn thẳng** nối 2 vị trí ngón tay `≤ R` |
 | 5. Trạng thái | Chém trúng: `score += 1`; bỏ lỡ: `lives -= 1`; hết mạng: Game Over |
 
-Chi tiết xem file [`BAO_CAO.md`](Project_Report.md).
-
+Chi tiết xem file [`Project_Report.md`](Project_Report.md).
 ## 💻 Yêu cầu hệ thống
 
 - Python **3.9 - 3.11** (khuyến nghị 3.10)
@@ -43,7 +42,7 @@ Chi tiết xem file [`BAO_CAO.md`](Project_Report.md).
 
 ```bash
 # 1. Tải mã nguồn
-git clone <[link-repo-cua-ban](https://github.com/KieuDat08/mediapipe-fruit-ninja.git)>
+git clone [https://github.com/KieuDat08/mediapipe-fruit-ninja.git](https://github.com/KieuDat08/mediapipe-fruit-ninja.git)
 cd fruit_ninja
 
 # 2. (Khuyến nghị) Tạo môi trường ảo
