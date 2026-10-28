@@ -43,7 +43,7 @@ Chi tiết xem file [`BAO_CAO.md`](Project_Report.md).
 
 ```bash
 # 1. Tải mã nguồn
-git clone <link-repo-cua-ban>
+git clone <[link-repo-cua-ban](https://github.com/KieuDat08/mediapipe-fruit-ninja.git)>
 cd fruit_ninja
 
 # 2. (Khuyến nghị) Tạo môi trường ảo
